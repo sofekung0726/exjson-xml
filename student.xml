@@ -1,0 +1,19 @@
+<Student> 
+    <student sid="01">
+        <stname>
+            Tom
+        </stname>
+        <stLname>
+            Price
+        </stLname>
+    </student>
+
+    <student sid="02">
+        <stname>
+            Nick
+        </stname>
+        <stLname>
+            Thameson
+        <stLname>
+    </student>
+</Student>

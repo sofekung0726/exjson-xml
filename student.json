@@ -1,0 +1,24 @@
+{
+    "student" :[
+        {
+            "id" : "566003204-1",
+            "student" : [{
+                            "name" : "Robert",
+                            "gpa"  : 3.06,
+                            "register" :[{
+                                    "subject" : [
+                                    {
+                                        "id" : 322433,
+                                        "grade" : "A"
+                                    },
+                                    {
+                                        "id" : 322236,
+                                        "grade" : "C"                
+                                    }
+                                                ]
+
+                                        }]
+                        }]
+        }
+    ]
+}
